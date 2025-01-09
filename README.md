@@ -1,2 +1,1 @@
-#& adasali 87 Lifetime 1137.184.116.135
-#& nasirli 88 Lifetime 161.35.30.27
+#& adasali 87 Lifetime 167.71.40.164
